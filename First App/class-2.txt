@@ -1,0 +1,54 @@
+res--> look n feel and all non-java code
+foreg--> images, colors, strings, margins, themes, mp3, mp4, animations, .txt etc.
+
+EmptyActivity-->
+
+drawable--> images, extra-effects(animation, button-effects), etc.
+ 
+layout-->all layouts of project--> layout.xml files
+
+mipmap--> application-icon
+
+values--> strings, colors, themes, margins, internationalization
+
+
+parent--> Layout
+
+child--> textview, button, etc
+
+
+
+Step-1: Downcasting--> ui--> xml and backend-java
+
+--> RuntimeException--> NullPointerException
+
+Step-2: Attach Listener
+
+setNameOfListener(new ...)
+
+
+Step-3: Event Handler
+//anonmyous concept
+//implement interface
+// variable name
+// through xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

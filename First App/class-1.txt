@@ -1,0 +1,21 @@
+API level--> features, end-users
+
+max or latest--> features will be latest, end-users are limited
+
+min--> features will be limited, end-users are more
+--features will be added dynamically
+
+1.0,1.1
+--> 1.3--> cupcake
+API-17--> less no of piece code
+25.1
+
+
+all widgets need a parent to work--> Layout-->
+different layouts are available in android
+
+Top and Left-->0 in case if we are dealing with RelativeLayout
+
+
+Dp--> density pixels
+sp--> scalable pixels
