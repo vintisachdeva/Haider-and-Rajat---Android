@@ -1,0 +1,42 @@
+
+View: Widgets for eg--> Button, TextView, EditText, etc
+
+ViewGroup: Collection of Views--> handle more then one view.
+eg--> Layouts--> view and viewgroups(Layouts)
+
+
+<RelativeLayout>
+
+<RelativeLayout>
+
+
+
+</RelativeLayout>
+
+
+</RelativeLayout>
+
+Layouts in Android:
+
+RelativeLayout
+
+Relative positions--> position of the parent and position of the 
+other widgets or other child elments
+
+set of attributes and because of that attribute
+
+ConstraintLayout: recently updated with 2.3 version
+
+Advantage and disadvantage:
+Adv: Drag and Drop
+     provides easy to use attributes
+
+Dis: in case if pos of one widget is changed the position of rest 
+widget will be changed automatically
+
+
+
+FrameLayout
+TableLayout
+CoordinatorLayout
+ConstraintLayout
