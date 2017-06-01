@@ -1,0 +1,16 @@
+Relative Layout:
+
+Linear Layout--> order--> vertically or horizontally
+
+1st main attribute:
+
+orientation="vertical/horizontal"
+
+width and height
+
+layout_gravity="outside" or on complete position of widget
+
+gravity="for inner elements"--> layout set--> gravity--> inner widgets-> gravity
+
+
+layout_weight=""--> 
