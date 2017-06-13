@@ -1,0 +1,10 @@
+Intent--> Predefined class
+
+Communication between activities, data pass, services, broadcast, etc.
+
+
+2 types:
+
+--> Explicit intent:--> data pass to another activity 			within that application.
+
+--> Implicit intent:--> action perform, data from own app transfer to any other app.

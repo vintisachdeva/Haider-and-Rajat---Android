@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/colorAlizarin">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bmpl.signin.FirstActivity"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:textColor="@android:color/white"
+        android:textSize="70sp"
+        android:layout_gravity="center"
+        android:fontFamily="cursive"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/emailEditText"
+        android:textColorHint="@android:color/white"
+        android:hint="abc@gmail.com"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        android:inputType="textEmailAddress"
+        android:backgroundTint="@android:color/white"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/passwordEditText"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        android:inputType="textPassword"
+        android:backgroundTint="@android:color/white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_effect"
+        android:textSize="20sp"
+        android:text="Login"
+        android:textColor="@android:color/white"
+        android:elevation="40dp"
+        android:id="@+id/loginButton"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/button_effect"
+            android:textSize="20sp"
+            android:text="Login"
+            android:textColor="@android:color/white"
+            android:elevation="40dp" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/button_effect"
+            android:textSize="20sp"
+            android:text="Login"
+            android:textColor="@android:color/white"
+            android:elevation="40dp"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/button_effect"
+            android:textSize="20sp"
+            android:text="Login"
+            android:textColor="@android:color/white"
+            android:elevation="40dp" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/button_effect"
+            android:textSize="20sp"
+            android:text="Login"
+            android:textColor="@android:color/white"
+            android:elevation="40dp"/>
+
+    </LinearLayout>
+</ScrollView>
